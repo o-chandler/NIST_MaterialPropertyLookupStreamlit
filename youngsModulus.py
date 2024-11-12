@@ -1,7 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from tkinter import Tk, Label, Button, Entry, ttk
 
 
 def youngsModulus(material, temp):
