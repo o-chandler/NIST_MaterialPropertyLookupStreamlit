@@ -746,8 +746,10 @@ nylon = MaterialClass(
         2.9880e-02,
         -7.9480e-05,
         1.1810e-07,
+        0,
     ],
     linearExpansionDataRange=[4, 300],
+    linearExpansionTlow=0,
 )
 
 kapton = MaterialClass(
